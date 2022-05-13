@@ -5,3 +5,7 @@ i {
 .user{
     margin-right: 15px;;
 }
+
+.widgets-navbar{
+    display: flex;
+}
